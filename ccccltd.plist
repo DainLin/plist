@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://meap.nqsky.com:9988/nqsky-meap-front/fstp.jws?portal.key=@nationsky.com&handler=download&token=8W6WCvsw541-aF3nfRQ-0scnk51-UyES5</string>
+					<string>http://meap.nqsky.com:9988/protalZJJ.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.nationsky.rmad</string>
 				<key>bundle-logo</key>
-				<string>http://meap.nqsky.com:9988/nqsky-meap-front/fstp.jws?portal.key=@nationsky.com&handler=download&token=sz1MpAZ4w31-Wksz6RQ-0PZyOO1-N2I</string>
+				<string>http://meap.nqsky.com:9988/protalZJJ.ipa</string>
 			</dict>
 		</dict>
 	</array>
